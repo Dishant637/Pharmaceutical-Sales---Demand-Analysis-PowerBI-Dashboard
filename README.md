@@ -45,6 +45,9 @@ The dashboard helps businesses monitor sales performance, identify revenue trend
 - Compared sales performance across countries and cities.
 - Enabled territory-level performance monitoring through interactive maps.
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8465aa94-6886-4471-87c4-8896d2b1b481" />
+
+
 ## 🏢 Business Applications
 - Pharmaceutical sales performance monitoring.
 - Demand and geographical trend analysis.
@@ -59,3 +62,5 @@ The dashboard helps businesses monitor sales performance, identify revenue trend
 
 ## 🚀 Conclusion
 This dashboard demonstrates how Power BI can be used to transform pharmaceutical sales data into actionable business insights through interactive visualizations, time-based analysis, and geographical mapping.
+
+
