@@ -5,7 +5,8 @@
 
 This project analyzes pharmaceutical sales and demand patterns using an interactive Power BI dashboard. It provides insights into revenue trends, drug category performance, hourly demand, and geographical sales distribution.
 
-![Pharmaceutical Sales Dashboard](dashboard.png)
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/0110cb6d-61a9-4f11-bc12-782625fdf3e4" />
+
 
 ## 🎯 Business Problem
 
