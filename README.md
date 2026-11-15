@@ -1,66 +1,74 @@
-# Pharmaceutical-Sales---Demand-Analysis-PowerBI-Dashboard
-Interactive Power BI dashboard for pharmaceutical sales and demand analysis, featuring revenue trends, time-based drill-downs, and geospatial performance insights.
 
-# Pharmaceutical Sales & Demand Analysis Dashboard | Power BI
+# Pharmaceutical Sales & Demand Analysis | Power BI Dashboard
 
-## 📌 Project Overview
-This project focuses on analyzing pharmaceutical sales and demand patterns using an interactive Power BI dashboard. It provides insights into revenue performance, sales trends, and geographical distribution across different countries and cities.
+## 📌 Overview
 
-The dashboard helps businesses monitor sales performance, identify revenue trends, and understand geographical demand patterns to support data-driven business decisions.
+This project analyzes pharmaceutical sales and demand patterns using an interactive Power BI dashboard. It provides insights into revenue trends, drug category performance, hourly demand, and geographical sales distribution.
+
+![Pharmaceutical Sales Dashboard](dashboard.png)
+
+## 🎯 Business Problem
+
+Pharmaceutical companies need to monitor sales and demand patterns to:
+
+- Identify high-performing drug categories.
+- Understand seasonal sales trends.
+- Optimize inventory and operational planning.
+- Evaluate geographical sales performance.
+
+## 🎯 Objectives
+
+- Analyze daily, weekly, monthly, quarterly, and yearly sales trends.
+- Identify top-performing drug categories.
+- Understand peak demand hours.
+- Evaluate geographical revenue distribution.
 
 ## 🛠️ Tools & Technologies
-- Power BI
-- Power Query
-- DAX
-- Data Visualization
-- Data Analysis
 
-## 📊 Dashboard Features
+- **Power BI** – Dashboard development and visualization.
+- **Power Query** – Data cleaning and transformation.
+- **DAX** – Measures and business calculations.
 
-### 1. Revenue Summary
-- Analysis of overall pharmaceutical sales and revenue performance.
-- Year, Quarter, and Month-based drill-down analysis.
-- Identification of sales trends and revenue patterns.
-- Interactive filters for exploring sales performance.
+## 📊 Data Overview
 
-### 2. Map Analysis
-- Geographical visualization of pharmaceutical sales.
-- Revenue analysis across different countries and cities.
-- Identification of high-performing geographical regions.
-- Territory-level sales and demand insights.
+- Multi-year pharmaceutical sales dataset.
+- **Time Dimensions:** Hourly, Daily, Weekly, Monthly, Quarterly, and Yearly.
+- **Metrics:** Sales Amount, Revenue, and Quantity Sold.
+- **Dimensions:** Drug Categories, Countries, and Cities.
 
-## ⚙️ Project Workflow
+## 📈 Key Dashboard Features
 
-1. **Data Loading:** Imported pharmaceutical sales data into Power BI.
-2. **Data Preparation:** Cleaned and transformed data using Power Query.
-3. **Data Modeling:** Organized data for effective analysis and reporting.
-4. **DAX Calculations:** Created measures to support sales and revenue analysis.
-5. **Dashboard Development:** Designed interactive Revenue Summary and Map Analysis views.
-6. **Drill-Down Analysis:** Incorporated Year, Quarter, and Month hierarchies to analyze sales trends.
-7. **Geospatial Analysis:** Used map visualizations to track revenue distribution across countries and cities.
+- KPI cards for total, average, daily, weekly, and monthly sales.
+- Weekly, monthly, quarterly, and yearly sales trend analysis.
+- Hourly quantity sold analysis to identify peak demand periods.
+- Drug category-wise sales comparison and contribution.
+- Geographical revenue analysis across countries and cities.
+- Interactive year filters and time-based drill-downs.
 
 ## 💡 Key Insights
-- Analyzed pharmaceutical sales and revenue trends over different time periods.
-- Identified geographical variations in revenue performance.
-- Compared sales performance across countries and cities.
-- Enabled territory-level performance monitoring through interactive maps.
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8465aa94-6886-4471-87c4-8896d2b1b481" />
+- Q4 shows higher sales across most drug categories.
+- Sales decline during the mid-year period (June–August).
+- A single drug category contributes nearly 50% of daily sales.
+- Demand varies across different hours and drug categories.
+- Geographical regions show variations in sales performance.
 
+## 🚀 Business Recommendations
+
+- Increase inventory before Q4 to meet higher demand.
+- Introduce promotions during mid-year sales slowdowns.
+- Reduce dependency on a single high-performing category.
+- Align inventory and resources with peak demand hours.
+- Focus on high-performing geographical regions.
 
 ## 🏢 Business Applications
+
 - Pharmaceutical sales performance monitoring.
-- Demand and geographical trend analysis.
-- Territory-level performance evaluation.
-- Revenue tracking and business reporting.
-- Data-driven sales planning and decision-making.
+- Demand and inventory planning.
+- Drug category performance evaluation.
+- Geographical revenue analysis.
+- Data-driven business decision-making.
 
-## 📁 Repository Contents
-- Power BI Dashboard (.pbix)
-- Dataset (if shareable)
-- Dashboard Screenshots
+## 📝 Conclusion
 
-## 🚀 Conclusion
-This dashboard demonstrates how Power BI can be used to transform pharmaceutical sales data into actionable business insights through interactive visualizations, time-based analysis, and geographical mapping.
-
-
+This project demonstrates how Power BI can transform pharmaceutical sales data into actionable business insights through interactive visualizations, time-based analysis, and geographical performance monitoring.
